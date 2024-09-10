@@ -1,0 +1,5 @@
+1. Add a welcome page and a page shows how to play the game
+2. Make my user can enter their name, and update the name in my score board
+3. Make my enemy can avoid the explosion area
+4. Add the music
+5. Add different levels
